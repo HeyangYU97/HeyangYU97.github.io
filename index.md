@@ -1,6 +1,6 @@
 <table border="0">
   <tr>
-    <td width="70%">
+    <td width="60%">
       <h1>于鹤洋</h1>
       <p><b>博士研究生，IEEE Student Member</b></p>
       <p><b>浙江大学电气工程学院电力系统高性能计算实验室</b></p>
@@ -8,8 +8,8 @@
       <p><b>地址：浙江省杭州市西湖区浙大路38号浙江大学玉泉校区第二教学大楼203</b></p>
       <p><b>邮编：310027</b></p>
     </td>
-    <td width="30%">
-      <img src="/YY.jpg" width="90%">      
+    <td width="40%">
+      <img src="/YY.jpg" width="100%">      
     </td>
   </tr>
 </table>
