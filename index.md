@@ -8,7 +8,7 @@
       <p><b>地址：浙江省杭州市西湖区浙大路38号浙江大学玉泉校区第二教学大楼203，邮编132300</b></p>
     </td>
     <td width="25%">
-      <img src="/YY.jpg" width="100%">      
+      <img src="/YY.jpg" width="90%">      
     </td>
   </tr>
 </table>
