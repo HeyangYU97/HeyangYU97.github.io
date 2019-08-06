@@ -1,12 +1,12 @@
 # 网站导航
-<a href="/jiaoyu.md">网站首页</a>
-<a href="/jiaoyu.md">教育经历</a>
-<a href="/jiaoyu.md">研究工作</a>
-<a href="/jiaoyu.md">学术成果</a>
-<a href="/jiaoyu.md">荣誉奖励</a>
-<a href="/jiaoyu.md">学术活动</a>
-<a href="/jiaoyu.md">即时更新</a>
-<a href="/jiaoyu.md">其他</a>
+<a href="/jiaoyu.html">网站首页</a>
+<a href="/jiaoyu.html">教育经历</a>
+<a href="/jiaoyu.html">研究工作</a>
+<a href="/jiaoyu.html">学术成果</a>
+<a href="/jiaoyu.html">荣誉奖励</a>
+<a href="/jiaoyu.html">学术活动</a>
+<a href="/jiaoyu.html">即时更新</a>
+<a href="/jiaoyu.html">其他</a>
 
 
 <table border="0">
@@ -32,7 +32,7 @@
 
 # 教育与工作经历
 
-<a href="/jiaoyu.md">教育经历</a>
+<a href="/jiaoyu.html">教育经历</a>
 ## 教育经历
 1.2015.09 - 2019.06，浙江大学电气工程学院
 <br/>浙江大学, 杭州, 中国. 导师: 文福拴教授
