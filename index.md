@@ -1,3 +1,14 @@
+# 网站导航
+<a href="/jiaoyu.md">网站首页</a>
+<a href="/jiaoyu.md">教育经历</a>
+<a href="/jiaoyu.md">研究工作</a>
+<a href="/jiaoyu.md">学术成果</a>
+<a href="/jiaoyu.md">荣誉奖励</a>
+<a href="/jiaoyu.md">学术活动</a>
+<a href="/jiaoyu.md">即时更新</a>
+<a href="/jiaoyu.md">其他</a>
+
+
 <table border="0">
   <tr>
     <td width="80%">
@@ -13,6 +24,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
