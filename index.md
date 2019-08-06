@@ -1,6 +1,6 @@
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="100%">
       <h1>于鹤洋</h1>
       <p><b>博士研究生，IEEE Student Member</b></p>
       <p><b>浙江大学电气工程学院电力系统高性能计算实验室</b></p>
