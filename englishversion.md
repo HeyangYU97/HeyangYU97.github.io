@@ -7,7 +7,7 @@
 <a href="/xueshuhuodong.html">Academic and Social activities</a>
 <a href="/jishigengxin.html">Instant Update</a>
 <a href="/qita.html">Travel Record</a>
-<a href="/englishversion.html">中文主页</a>
+<a href="/index.html">中文主页</a>
 
 
 <table border="0">
