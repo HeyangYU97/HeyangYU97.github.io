@@ -7,3 +7,19 @@
 <a href="/xueshuhuodong.html">学术活动</a>
 <a href="/jishigengxin.html">即时更新</a>
 <a href="/qita.html">其他</a>
+
+## 学位论文
+1.**工学学士学位论文**: 电力系统最优潮流的并行计算，浙江大学，2019年5月。导师：耿光超博士。
+
+## 审稿中的论文
+
+## 英文期刊论文
+
+## 中文期刊论文
+
+## 会议论文
+1.Haifeng Fan, Tong Zhang, **Heyang Yu**, Guangchao Geng, Identifying ZIP Coefficients of Aggregated Residential Load Model using AMI Data, IEEE 3rd International Electrical and Energy Conference, 2019.
+
+## 发明专利
+
+## 计算机软件著作权
