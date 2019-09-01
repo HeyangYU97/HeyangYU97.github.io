@@ -4,9 +4,9 @@
 <a href="/yanjiugongzuo.html">研究工作</a>
 <a href="/xueshuchengguo.html">学术成果</a>
 <a href="/rongyujiangli.html">荣誉奖励</a>
-<a href="/xueshuhuodong.html">学术活动</a>
+<a href="/xueshuhuodong.html">学术与社会活动</a>
 <a href="/jishigengxin.html">即时更新</a>
-<a href="/qita.html">其他</a>
+<a href="/qita.html">旅行记录</a>
 
 ## 研究项目
 - 国网江苏省电力有限公司电力科学研究院, "低压电力负荷云端集成深度感知关键技术研究", 2019/1 - 2019/12, 学生负责人.
