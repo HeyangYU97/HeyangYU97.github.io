@@ -7,6 +7,7 @@
 <a href="/xueshuhuodong.html">学术与社会活动</a>
 <a href="/jishigengxin.html">即时更新</a>
 <a href="/qita.html">旅行记录</a>
+<a href="/englishversion.html">English Version</a>
 
 
 <table border="0">
