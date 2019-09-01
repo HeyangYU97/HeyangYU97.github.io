@@ -1,12 +1,12 @@
 # Site Navigation
-<a href="/index.html">Website Homepage</a>
-<a href="/jiaoyu.html">Educational Experience</a>
-<a href="/yanjiugongzuo.html">Research Work</a>
-<a href="/xueshuchengguo.html">Academic Achievements</a>
-<a href="/rongyujiangli.html">Honor Award</a>
-<a href="/xueshuhuodong.html">Academic and Social activities</a>
-<a href="/jishigengxin.html">Instant Update</a>
-<a href="/qita.html">Travel Record</a>
+<a href="/englishversion.html">Website Homepage</a>
+<a href="/Ejiaoyu.html">Educational Experience</a>
+<a href="/Eyanjiugongzuo.html">Research Work</a>
+<a href="/Exueshuchengguo.html">Academic Achievements</a>
+<a href="/Erongyujiangli.html">Honor Award</a>
+<a href="/Exueshuhuodong.html">Academic and Social activities</a>
+<a href="/Ejishigengxin.html">Instant Update</a>
+<a href="/Eqita.html">Travel Record</a>
 <a href="/index.html">中文主页</a>
 
 
