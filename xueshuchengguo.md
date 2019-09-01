@@ -18,7 +18,7 @@
 ## 中文期刊论文
 
 ## 会议论文
-1.Haifeng Fan, Tong Zhang, **Heyang Yu**, Guangchao Geng, Identifying ZIP Coefficients of Aggregated Residential Load Model using AMI Data, IEEE 3rd International Electrical and Energy Conference, 2019.
+1.Haifeng Fan, Tong Zhang, **Heyang Yu**, Guangchao Geng*, Identifying ZIP Coefficients of Aggregated Residential Load Model using AMI Data, IEEE 3rd International Electrical and Energy Conference, 2019.
 
 ## 发明专利
 
