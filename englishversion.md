@@ -18,7 +18,7 @@
       <p><b>PowerHPC Lab, College of Electrical Engineering, Zhejiang University</b></p>
       <p><b>Email：yuheyang@zju.edu.cn</b></p>
       <p><b>Address：College of Electrical Engineering,Yuquan Campus, Zhejiang University，38 Zheda Road, Hangzhou, China,</b></p>
-      <p><b>Zip code：310027</b></p>
+      <p><b>Zip Code：310027</b></p>
     </td>
     <td width="20%">
       <img src="/YY.jpg" width="100%">      
