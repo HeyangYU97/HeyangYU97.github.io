@@ -10,7 +10,7 @@
 
 ## 即时更新
 - **2019.09.03**
-<br/>我将于9月6日前往中国首都北京参加**CIEEC 2019（2019年第三届国际电气与能源大会）**；同时我和我的同事将在2019年9月9日在Zhonghua Hall (2nd Floor)， Hotel Nikko New Century Beijing，**Session 13: Power System, Smart Grid, New Energy & Renewable Energy, Energy Internet **展示我们的研究论文"**Identifying ZIP Coefﬁcients of Aggregated Residential Load Model using AMI Data**"。期待着老师、同学们莅临指导，也期待着这次旅行期间与朋友们的相聚！
+<br/>我将于9月6日前往中国首都北京参加**CIEEC 2019（2019年第三届国际电气与能源大会）**；同时我和我的同事将在2019年9月9日在Zhonghua Hall (2nd Floor)， Hotel Nikko New Century Beijing，Session 13: Power System, Smart Grid, New Energy & Renewable Energy, Energy Internet 展示我们的研究论文"**Identifying ZIP Coefﬁcients of Aggregated Residential Load Model using AMI Data**"。期待着老师、同学们莅临指导，也期待着这次旅行期间与朋友们的相聚！
 - **2019.09.01**
 <br/>由浙江大学与正泰仪表集团联合研发的含有NILM模块的新一代智能电表将于9月10-13日在中国浙江温州举办的"**国际工业与能源物联网创新发展大会**"上展出。
 - **2019.09.01**
