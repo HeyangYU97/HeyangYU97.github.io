@@ -26,5 +26,7 @@
   </tr>
 </table>
 
+## 社交媒体
+领英档案<a href="https://www.linkedin.com/in/heyang-yu-7a5296167/">领英档案</a>
 
 
