@@ -8,5 +8,5 @@
 <a href="/jishigengxin.html">即时更新</a>
 <a href="/qita.html">旅行记录</a>
 
-## 即时更新
+## 旅行记录
 待更新
