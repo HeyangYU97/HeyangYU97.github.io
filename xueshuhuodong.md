@@ -12,6 +12,7 @@
 <br/>2019年8月加入电气与电子工程师协会（IEEE）成为学生会员（Student Member）
 <br/>2019年8月加入浙江省电力学会（ZSEP）成为学生会员（Student Member）
 <br/>2019年8月加入中国电机工程学会（CSEE）成为学生会员（Student Member）
+<br/>2019年9月加入中国电工技术学会（CES）成为学生会员（Student Member）
 
 ## 社会工作
 <br/>2015 - 至今  中华人民共和国田径项目 三级裁判员
