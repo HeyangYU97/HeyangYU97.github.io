@@ -9,4 +9,5 @@
 <a href="/qita.html">旅行记录</a>
 
 ## 旅行记录
-待更新
+1.2018年NVIDIA GPU技术大会；
+<>
