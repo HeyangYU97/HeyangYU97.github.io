@@ -30,4 +30,4 @@
 <br/>- <a href="https://www.linkedin.com/in/heyang-yu-7a5296167/">领英档案</a>
 
 ## 个人简历
-<br/>- <a href="E:\Users\Heyang YU\Downloads\CV of Heyang.pdf" target="_blank">CV of Heyang</a>
+<br/>- <a href="\Users\Heyang YU\Downloads\CV of Heyang.pdf" target="_blank">CV of Heyang</a>
