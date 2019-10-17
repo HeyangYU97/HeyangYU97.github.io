@@ -27,7 +27,7 @@
 </table>
 
 ## 社交媒体
-<br/>- <a href="https://www.linkedin.com/in/heyang-yu-7a5296167/">领英档案</a>
+<br/>- <a href="https://www.linkedin.com/in/heyangyu7a5296167">领英档案</a>
 
 ## 个人简历
 <br/>- <a href="https://pan.zju.edu.cn/share/1d5faa488c370e3089964618a6">CV</a>
