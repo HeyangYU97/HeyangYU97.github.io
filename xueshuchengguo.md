@@ -9,8 +9,8 @@
 <a href="/qita.html">旅行记录</a>
 
 ## 审稿中的论文
-1.张潼、**于鹤洋**、田江、樊海锋、陈昶宇、耿光超*. 基于非侵入式负荷辨识的聚合负荷需求响应能力在线评估方法，已投稿.
-2.Changyu Chen, Zhihan Xie, Liang Wang, Yunfu Xie, Guangchao Geng*, **Heyang Yu**. Anomaly Detection of Pollution Control Equipment Based on AMI Data Analytics. Submitted to Conference.
+1.张潼、**于鹤洋**、田江、樊海锋、陈昶宇、*耿光超*. 基于非侵入式负荷辨识的聚合负荷需求响应能力在线评估方法，已投稿.
+2.Changyu Chen, Zhihan Xie, Liang Wang, Yunfu Xie, *Guangchao Geng*, **Heyang Yu**. Anomaly Detection of Pollution Control Equipment Based on AMI Data Analytics. Submitted to Conference.
 
 ## 学位论文
 1.**工学学士学位论文**: 低压电力负荷云端集成深度感知技术研究，浙江大学，2019年5月。导师：耿光超博士。
@@ -20,7 +20,7 @@
 ## 中文期刊论文
 
 ## 会议论文
-1.Haifeng Fan, Tong Zhang, **Heyang Yu**, Guangchao Geng*, Identifying ZIP Coefficients of Aggregated Residential Load Model using AMI Data, IEEE 3rd International Electrical and Energy Conference, 2019.
+1.Haifeng Fan, Tong Zhang, **Heyang Yu**, *Guangchao Geng*, Identifying ZIP Coefficients of Aggregated Residential Load Model using AMI Data, IEEE 3rd International Electrical and Energy Conference, 2019.
 
 ## 专著
 1.徐林, 江全元, 李伟, 耿光超等, **《新一代电力系统导论》**, 中国电力出版社, 2019年（主要编写人员）.
