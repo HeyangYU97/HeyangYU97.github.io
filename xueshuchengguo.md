@@ -10,7 +10,7 @@
 
 ## 审稿中的论文
 1.张潼、**于鹤洋**、田江、樊海锋、陈昶宇、耿光超*. 基于非侵入式负荷辨识的聚合负荷需求响应能力在线评估方法，已投稿.
-2.Changyu Chen, Zhihan Xie, Liang Wang, Yunfu Xie, Guangchao Geng*, **Heyang Yu**. Anomaly Detection of Pollution Control Equipment Based on AMI Data Analytics. Submitted to Conference.
+<br/>2.Changyu Chen, Zhihan Xie, Liang Wang, Yunfu Xie, Guangchao Geng*, **Heyang Yu**. Anomaly Detection of Pollution Control Equipment Based on AMI Data Analytics. Submitted to Conference.
 
 ## 学位论文
 1.**工学学士学位论文**: 低压电力负荷云端集成深度感知技术研究，浙江大学，2019年5月。导师：耿光超博士。
