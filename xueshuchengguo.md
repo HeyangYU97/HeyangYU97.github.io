@@ -19,8 +19,8 @@
 ## 中文期刊论文
 1.张潼,**于鹤洋**,田江,樊海锋,陈昶宇,*耿光超*.基于非侵入式负荷辨识的聚合负荷需求响应能力在线评估[J].电力工程技术,2020,39(06):19-25+65.
 ## 会议论文
-H. Fan, T. Zhang, **H. Yu** and *G. Geng*, "Identifying ZIP Coefficients of Aggregated Residential Load Model Using AMI Data," 2019 IEEE 3rd International Electrical and Energy Conference (CIEEC), 2019, pp. 1660-1663, doi: 10.1109/CIEEC47146.2019.CIEEC-2019582.
-2.C. Chen, Z. Xie, L. Wang, Y. Xie, *G. Geng* and **H. Yu**, "Anomaly Detection of Pollution Control Equipment Based on AMI Data Analytics," 2020 IEEE International Conference on Power Systems Technology (POWERCON), 2020, pp. 1-6, doi: 10.1109/POWERCON48463.2020.9230613.
+1.H. Fan, T. Zhang, **H. Yu** and *G. Geng*, "Identifying ZIP Coefficients of Aggregated Residential Load Model Using AMI Data," 2019 IEEE 3rd International Electrical and Energy Conference (CIEEC), 2019, pp. 1660-1663, doi: 10.1109/CIEEC47146.2019.CIEEC-2019582.
+<br/>2.C. Chen, Z. Xie, L. Wang, Y. Xie, *G. Geng* and **H. Yu**, "Anomaly Detection of Pollution Control Equipment Based on AMI Data Analytics," 2020 IEEE International Conference on Power Systems Technology (POWERCON), 2020, pp. 1-6, doi: 10.1109/POWERCON48463.2020.9230613.
 
 ## 专著
 1.徐林, 江全元, 李伟, 耿光超等, **《新一代电力系统导论》**, 中国电力出版社, 2019年（主要编写人员）.
