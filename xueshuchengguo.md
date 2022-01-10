@@ -11,6 +11,8 @@
 ## 审稿中的论文
 1.**H. Yu**, J. Zhang, J. Ma, C. Chen, *G. Geng*, Q. Jiang, "Privacy-Preserving Demand Response of Aggregated Residential Load," submitted for journal publication.
 <br/>2.张靖琛, **于鹤洋**, 周自强, 马骏超, *耿光超*, 江全元.面向负荷聚合商的智能合约微服务架构设计及实现, 在审中
+<br/>3.徐崇钧, **于鹤洋**, 陈昶宇, 朱琪, *耿光超*, 江全元.基于多元特征分析的居民非侵入式相似电器辨识算法, 在审中
+
 
 ## 学位论文
 1.**工学学士学位论文**: 低压电力负荷云端集成深度感知技术研究，浙江大学，2019年5月。导师：耿光超博士。
